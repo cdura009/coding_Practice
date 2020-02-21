@@ -13,6 +13,15 @@ int main() {
 	//9
 	//10.
 	cout << "1" << endl;
+    cout << "2" << endl;
+    cout << "3" << endl;
+    cout << "4" << endl;
+    cout << "5" << endl;
+    cout << "6" << endl;
+    cout << "7" << endl;
+    cout << "8" << endl;
+    cout << "9" << endl;
+    cout << "10" << endl;
 	//Different modes of vim:
 	
 	//Command mode (what you start in)
@@ -35,7 +44,7 @@ int main() {
 	//ctrl-v - enter visual block mode. 
 	//yy - copy line
 	//dd - cut line
-	//cc - cut line and enter insert mode to replace cut text
+	//cc - cut 9line and enter insert mode to replace cut text
 	//p - paste line.
 	//:<line number> - jumps you to line number.
 	//arrow keys/page up-page down/ ( and )/ w and b all navigate differently.

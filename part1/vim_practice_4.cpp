@@ -32,7 +32,13 @@ int main() {
 			//Save and quit the file when you're done by typing :wq
 			//in command mode for each of these.
 			//Compile and run this code.
-		}
+            
+            int i = 1;
+            do { 
+                cout << "This code is important and reusable." << endl;
+                i++;
+            } while (i == 2); 
+        
 	}
 	return 0;
 }
